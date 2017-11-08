@@ -1,2 +1,5 @@
 # hello-world
-self-explanatory: first attempt at github
+（中）您好，世界！
+（日）こんにちは、世界！
+(F) Bonjour!
+(It) Buongiorno!
